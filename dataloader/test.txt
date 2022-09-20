@@ -1,0 +1,10 @@
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy0.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy1.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy2.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy3.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy4.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy5.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy6.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy7.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy8.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/testset/noisy9.dng

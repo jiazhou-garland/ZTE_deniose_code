@@ -1,0 +1,11 @@
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/60_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/60_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/61_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/61_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/62_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/62_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/71_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/71_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/75_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/75_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/77_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/77_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/78_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/78_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/82_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/82_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/88_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/88_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/89_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/89_noise.dng
+/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/ground truth/91_gt.dng	/home/zhoujiazhou/PycharmProjects/code/Denoise/dataset/train/noisy/91_noise.dng
